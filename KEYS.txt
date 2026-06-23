@@ -1,2 +1,1 @@
-#key|type|start|end|notice
-Yiw7JrHMZW+2h+mzk/ackg==|s8lUGvg37X1ejsDlsqI1hGW3EDdVpNpzY5gAbalMUxXZDeWMiPHrYdiHuL35oT7c0d8cR6b/IpdERoP4lPP75g==|22:56 27/03/2026|23:59 31/12/9999|ADMIN
+51 b3 d5 a8 0f 59 39 8d 7c ea 98 b9 72 10 f1 ac
